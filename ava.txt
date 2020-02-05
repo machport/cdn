@@ -1,1 +1,1 @@
-AppleConnect TouchIDDemo
+APP AppleConnect URL TouchIDDemo
