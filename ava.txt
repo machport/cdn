@@ -1,1 +1,1 @@
-APP AppleConnect URL TouchIDDemo
+APP AppleConnect URL https://github.com/machport/cdn/raw/master/com.apple.ist.AppleConnect_v3.9.1-3.9.1.ipa APP TouchIDDemo URL https://github.com/machport/cdn/raw/master/com.apple.ist.AppleConnect_v3.9.1-3.9.1.ipa 
